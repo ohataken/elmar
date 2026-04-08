@@ -5,7 +5,8 @@
     "ask": [
     ],
     "allow": [
-      "Bash(zig build run)"
+      "Bash(zig build run)",
+      "Bash(zig build)"
     ]
   }
 }
